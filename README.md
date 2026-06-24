@@ -123,3 +123,7 @@ Password: `admin`
 - The project highlights strong fundamentals in React, REST API development with Express, and seamless frontend–backend integration, making it a solid production-style web application.
 
 - This project reflects hands-on experience in developing an end-to-end full-stack system, demonstrating problem-solving skills, clean code practices, and real-world application development experience.
+
+## Live Deployment on Vercel
+
+Vercel Link: https://full-stack-e-commerce-fawn.vercel.app
