@@ -1,4 +1,4 @@
-# 🛒 Full Stack E-Commerce Web Application
+# 🛒 Full Stack E-Commerce Web App
 
 - A production-style full-stack e-commerce platform built using **React (Frontend)** and **Node.js + Express (Backend)**.  
 - This application simulates real-world online shopping functionality including product browsing, cart management, checkout, order placement, and admin order control.
